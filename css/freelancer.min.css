@@ -238,7 +238,7 @@ footer h1{
 }
 
 .headerbg-primary{
-  background-image: url("../img/possibleheader3.jpg") !important;
+  background-image:url("../img/possibleheader3.jpg") !important;
   background-size: cover;
 }
 
